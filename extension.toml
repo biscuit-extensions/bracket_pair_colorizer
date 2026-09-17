@@ -1,0 +1,7 @@
+[extension]
+id = "bracket_pair_colorizer"
+name = "Bracket Pair Colorizer"
+version = "0.1.0"
+description = "Bracket Pair Colorizer extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
